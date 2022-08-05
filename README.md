@@ -1,2 +1,3 @@
-# git_test
-My test github repository
+# odin-recipe
+
+This is a test to see if it working!
